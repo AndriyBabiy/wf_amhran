@@ -1,0 +1,6 @@
+.container {
+  display: block;
+  object-fit: contain;
+  width: 180px;
+  padding: 20px 0;
+}
